@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "518066648776",
+    "firebase_url": "https://reconnaissance-faciale-90479.firebaseio.com",
+    "project_id": "reconnaissance-faciale-90479",
+    "storage_bucket": "reconnaissance-faciale-90479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518066648776:android:712f911abcbbac04",
+        "android_client_info": {
+          "package_name": "com.gosecuri.msprdevsolutionapplication.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518066648776-iqubc0l4dr3ivg2cgo33j3ouqmj4vdb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJA0JKjeErxEsz1UN8a93q5z6U70ZUWQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518066648776:android:52b117ac9a61ec08",
+        "android_client_info": {
+          "package_name": "cultoftheunicorn.marvel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518066648776-rt9508gvmpe92beln82df2vbrcnqjdqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cultoftheunicorn.marvel",
+            "certificate_hash": "21bce7980600a64be8a4e814af7d310ba6138f2b"
+          }
+        },
+        {
+          "client_id": "518066648776-iqubc0l4dr3ivg2cgo33j3ouqmj4vdb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJA0JKjeErxEsz1UN8a93q5z6U70ZUWQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518066648776-iqubc0l4dr3ivg2cgo33j3ouqmj4vdb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
